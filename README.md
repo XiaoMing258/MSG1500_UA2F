@@ -21,7 +21,6 @@ A simple Chinese edu network multi-device detection bypass firmware.(Including U
 ...
 
 ## Credits
-
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)
@@ -36,6 +35,8 @@ A simple Chinese edu network multi-device detection bypass firmware.(Including U
 - [ActionsRML/delete-workflow-runs](https://github.com/ActionsRML/delete-workflow-runs)
 - [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
+- [Zxilly/UA2F](https://github.com/Zxilly/UA2F)
+- [CHN-beta/rkp-ipid](https://github.com/CHN-beta/rkp-ipid)
 
 ## License
 
