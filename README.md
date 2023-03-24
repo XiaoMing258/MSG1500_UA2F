@@ -6,14 +6,16 @@
 ![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
-A simple Chinese edu network multi-device detection bypass firmware.
-Including UA2F.
+A simple Chinese edu network multi-device detection bypass firmware.(Including UA2F)
 
 ## Usage
 
 1.Enter the breed management console and flash "openwrt-ramips-mt7621-raisecom_msg1500-x-00-initramfs-kernel.bin"
+
 2.Go to the openwrt management console and write "openwrt-ramips-mt7621-raisecom_msg1500-x-00-squashfs-sysupgrade.bin"
+
 3......
+
 ## Tips
 
 ...
